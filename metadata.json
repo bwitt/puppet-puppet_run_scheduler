@@ -23,9 +23,41 @@
   ],
   "operatingsystem_support": [
     {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
       "operatingsystem": "RedHat",
       "operatingsystemrelease": [
-        "8"
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "22.04",
+        "24.04",
+        "26.04"
       ]
     },
     {
@@ -33,7 +65,16 @@
       "operatingsystemrelease": [
         "2016",
         "2019",
-        "10"
+        "2022",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "operatingsystem": "Fedora",
+      "operatingsystemrelease": [
+        "43",
+        "44"
       ]
     },
     {

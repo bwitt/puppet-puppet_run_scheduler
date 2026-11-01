@@ -10,11 +10,11 @@
   "dependencies": [
     {
       "name": "puppetlabs/acl",
-      "version_requirement": ">= 3.2.1 < 6.0.0"
+      "version_requirement": ">= 3.2.1 < 7.0.0"
     },
     {
       "name": "puppetlabs/scheduled_task",
-      "version_requirement": ">= 2.3.0 < 5.0.0"
+      "version_requirement": ">= 2.3.0 < 6.0.0"
     },
     {
       "name": "puppetlabs/stdlib",
